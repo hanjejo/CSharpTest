@@ -76,9 +76,7 @@ namespace TaskTest
             {
                 // Task 종료 후 수행할 코드
                 Console.WriteLine(task.Result);
-            });
-
-            task.Wait();
+            }).Wait();
         }
 
         static int TestIntMethod()
