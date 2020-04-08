@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskTest", "TaskTest\TaskTe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventTest", "EventTest\EventTest.csproj", "{F291002D-1D4F-43EC-B96E-FE1BFB980AF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionTest", "ExpressionTest\ExpressionTest.csproj", "{FDE92640-616A-4B4F-AF87-5D070E1287E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F291002D-1D4F-43EC-B96E-FE1BFB980AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F291002D-1D4F-43EC-B96E-FE1BFB980AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F291002D-1D4F-43EC-B96E-FE1BFB980AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDE92640-616A-4B4F-AF87-5D070E1287E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE92640-616A-4B4F-AF87-5D070E1287E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE92640-616A-4B4F-AF87-5D070E1287E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE92640-616A-4B4F-AF87-5D070E1287E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
