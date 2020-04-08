@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitTest", "AsyncAwai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskTest", "TaskTest\TaskTest.csproj", "{B37C2AAD-D95E-4876-B60D-FDFD58DA047E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventTest", "EventTest\EventTest.csproj", "{F291002D-1D4F-43EC-B96E-FE1BFB980AF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B37C2AAD-D95E-4876-B60D-FDFD58DA047E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B37C2AAD-D95E-4876-B60D-FDFD58DA047E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B37C2AAD-D95E-4876-B60D-FDFD58DA047E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F291002D-1D4F-43EC-B96E-FE1BFB980AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F291002D-1D4F-43EC-B96E-FE1BFB980AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F291002D-1D4F-43EC-B96E-FE1BFB980AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F291002D-1D4F-43EC-B96E-FE1BFB980AF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
