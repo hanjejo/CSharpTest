@@ -19,7 +19,7 @@ namespace EventTest
             // Expansion Case 1
             Sample2();
         }
-
+         
         private static void Sample1()
         {
             var btn = new EventTestButton();
