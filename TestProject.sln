@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1062
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessTest", "ProcessTest\ProcessTest.csproj", "{39FF713B-E4DE-45C5-8FF6-03DB6B48736A}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventTest", "EventTest\EventTest.csproj", "{F291002D-1D4F-43EC-B96E-FE1BFB980AF3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateTest", "DelegateTest\DelegateTest.csproj", "{4537665C-BD80-4848-B68B-9DD35B2B4736}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionTest", "ExpressionTest\ExpressionTest.csproj", "{FDE92640-616A-4B4F-AF87-5D070E1287E2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventTest2", "EventTest2\EventTest2.csproj", "{6DCF3691-3124-4454-BF3D-FE9AE423AEC2}"
 EndProject
@@ -41,6 +43,10 @@ Global
 		{4537665C-BD80-4848-B68B-9DD35B2B4736}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4537665C-BD80-4848-B68B-9DD35B2B4736}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4537665C-BD80-4848-B68B-9DD35B2B4736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDE92640-616A-4B4F-AF87-5D070E1287E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE92640-616A-4B4F-AF87-5D070E1287E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE92640-616A-4B4F-AF87-5D070E1287E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE92640-616A-4B4F-AF87-5D070E1287E2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6DCF3691-3124-4454-BF3D-FE9AE423AEC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6DCF3691-3124-4454-BF3D-FE9AE423AEC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DCF3691-3124-4454-BF3D-FE9AE423AEC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
