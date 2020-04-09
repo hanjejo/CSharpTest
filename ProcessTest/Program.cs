@@ -16,7 +16,7 @@ namespace ProcessTest
 
             Start();
 
-            WaitForExit();
+            //WaitForExit();
         }
 
         static void Init()
